@@ -72,7 +72,7 @@ napi_value crc16(napi_env env, napi_callback_info info){
         assert(status == napi_ok);
 
         
-         if (typevaluetype0 != napi_uint32_array) {
+         if (typevaluetype0 != (napi_valuetype)napi_uint32_array) {
                 napi_throw_type_error(env, nullptr, "Wrong arguments");
                 return (napi_value)nullptr;
         }
