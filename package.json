@@ -1,5 +1,5 @@
 {
-  "name": "node-crc-native",
+  "name": "node_crc_native",
   "version": "1.0.0",
   "description": "Native node addon to calculate CRC16 values",
   "main": "index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MauricioB16B/node-crc-native.git"
+    "url": "https://github.com/MauricioB16B/node_crc_native.git"
   },
   "keywords": [
     "crc16",

@@ -18,7 +18,7 @@ console.log(crc("1af3e8b4c4d8","hex").toString(16));
 ## Installation
 
 ```
-npm i node-crc-native --save
+npm i node_crc_native --save
 ```
 
 ## License
