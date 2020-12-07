@@ -12,18 +12,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MauricioB16B/node_crc_native.git"
+    "url": "https://github.com/MauricioB16B/node-crc-native.git"
   },
   "keywords": [
     "crc16",
     "serial",
     "native",
     "addon",
-    "redis"
+    "redis",
+    "napi",
+    "crc"
   ],
   "author": "Mauricio Carvalho",
   "license": "APACHE-2.0",
   "dependencies": {
-    "myobject": "^1.0.0"
   }
 }
