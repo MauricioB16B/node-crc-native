@@ -1,6 +1,6 @@
 #  node-crc-native
 
-Node addon to calculate CRC values.
+Node native addon to calculate CRC.
 
 ## NOTE
 Compability node 15.3.0
