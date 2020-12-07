@@ -1,4 +1,4 @@
-var crc16 = require('./build/Release/node-crc-native').crc16;
+var crc16 = require('./build/Release/node_crc_native').crc16;
 
 module.exports = function (inBuffer, encoding = "hex") {
 	var buff = null;
