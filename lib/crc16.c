@@ -99,7 +99,7 @@ napi_value Init (napi_env env, napi_value exports) {
         napi_property_descriptor allDesc[] = {
                 {"crc16", 0, crc16, 0, 0, 0, napi_default, 0},
         };
-        napi_define_properties(env, exports, 18, allDesc);
+        napi_define_properties(env, exports, 1, allDesc);
         return exports;
 }
 
