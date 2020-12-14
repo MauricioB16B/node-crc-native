@@ -1,6 +1,6 @@
 {
   "name": "node_crc_native",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Native node addon to calculate CRC16 values",
   "main": "index.js",
   "scripts": {
