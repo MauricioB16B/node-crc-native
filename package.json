@@ -8,7 +8,7 @@
     "build": "node-gyp rebuild"
   },
   "engines": {
-    "node": ">=15.0.0"
+    "node": "<=15.3.0"
   },
   "repository": {
     "type": "git",
